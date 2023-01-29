@@ -1,0 +1,7 @@
+To run the python script successfully:
+
+1. Python 3.x installed
+2. paramiko module installed
+3. Wireshark installed with the TShark utility in the path c:\Program Files\Wireshark\tshark.exe
+4. Access to the F5 device IP
+5. Write permission to create folder in "C:\F5_configs".
