@@ -65,7 +65,7 @@ try:
     sftp_client.close()
     time.sleep(2)
 
-    print("\Downloaded successfull!")
+    print("\nDownload successfull!")
     time.sleep(2)
 
     # Delete the PCAP file at /var/tmp/*.pcap
